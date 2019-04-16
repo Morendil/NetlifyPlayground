@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: Nothing
 description: A site with no content
+include: _redirects
