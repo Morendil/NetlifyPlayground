@@ -1,1 +1,1 @@
-/api/*  https://fr.openfisca.org/:splat  200
+/api/*  https://fr.openfisca.org/api/:splat  200
